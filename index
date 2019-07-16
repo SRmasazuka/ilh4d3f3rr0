@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<item>
-<title>[B][COLOR yellow]ASSISTA AO TRAILLER[/COLOR][/B]</title>
-<utube>b-UZrTCgcy8</utube>
+<channels>
+
+<channel>
+<name>[B][COLOR yellow]ASSISTA AO TRAILLER[/COLOR][/B]</name>
+<externallink>plugin://plugin.video.youtube/play/?video_id=b-UZrTCgcy8</externallink>
 <thumbnail>https://s2.glbimg.com/Ko8D-hgPXEd3x-7oG5b_gU3Vrq0=/362x536/s2.glbimg.com/WYgXEDlIMMBHsgjFgmRUzL8rxxY=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/X/6/3A37YiTayY65L939XA6Q/ilha-de-ferro-poster-web.jpg</thumbnail>
 <fanart>https://i0.wp.com/pipocasclub.com.br/wp-content/uploads/2018/11/ilha-de-ferro.jpg?resize=1280%2C640</fanart>
-</item>
-  
-<channels>
+</channel>
 
 <channel>
 <name>[B][COLOR blue]::::[/COLOR] 1ª TEMPORADA (ILHA DE FERRO) [COLOR yellow]NETFREE[/COLOR] [COLOR red]PLAY[/COLOR] [COLOR blue]::::[/COLOR][/B]</name>
